@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512814738792",
+    "project_id": "buynal2-afbf0",
+    "storage_bucket": "buynal2-afbf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512814738792:android:b20d04af594da5c9ac3add",
+        "android_client_info": {
+          "package_name": "ma.developer.buynal2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Ras6vV-xhm53tVoUFDs2gTLgdFCnjGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
